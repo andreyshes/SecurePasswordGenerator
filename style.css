@@ -86,12 +86,26 @@ header {
   padding: 14px 34px;
   text-align: center;
   cursor: pointer;
+  
 }
 
 button[disabled] {
   cursor: default;
   background: #c0c7cf;
 }
+ 
+
+
+.btn:visited:hover{
+  color: yellow;
+}
+.btn:hover{
+  color: blue;
+}
+.btn:active{
+  color: grey;
+}
+
 
 .float-right {
   float: right;
