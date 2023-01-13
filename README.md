@@ -34,7 +34,7 @@ Direct to the following Links:
 
 
 ## Visuals
-
+<img src="images/passwordgenerator.png" alt="generated password">
 
 
 
