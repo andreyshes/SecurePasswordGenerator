@@ -2,6 +2,12 @@
 
 ## Description
 
+The webapge is a simple site  that generates a random, secure password upon users request. When the function is called 
+the user is prompted with series of promts in which they confirm what they want included in their password.
+
+My motivation behind this project was to get familiar with the basic concepts of javascript in order to get more
+comfortable with the scematics in which I can potentially apply in my future projects and/or jobs.
+
 The webapge is a simple site that generates a random, secure password upon users request. When the function is called the user is prompted with series of promts in which they confirm what they want included in their password.
 
 My motivation behind this project was to get familiar with the basic concepts of javascript in order to get more comfortable with the scematics in which I can potentially apply in my future projects and/or jobs.
@@ -31,10 +37,15 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Usage
+Direct to the following Links: 
 
-Direct to the following Links:
-https://andreyshes.github.io/SecurePasswordGenerator/
+
+
+
+## Visuals
+
+
+
 
 ## Credits
 
-&#9400; Andrey Shestopal
