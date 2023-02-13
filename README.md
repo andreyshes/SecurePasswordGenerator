@@ -35,10 +35,6 @@ THEN the password is either displayed in an alert or written to the page
 Direct to the following Links:
 https://andreyshes.github.io/SecurePasswordGenerator/
 
-## Visuals
-
-<img src="images/passwordgenerator.png" alt="generated password">
-
 ## Credits
 
 &#9400; Andrey Shestopal
